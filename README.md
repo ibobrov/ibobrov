@@ -29,6 +29,12 @@ You can write me on  [![Telegram][2.2]][2] or [![LinkedIn][1.1]][1].
 
 >
 
+<a href="https://github.com/ibobrov/job4j_cars">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibobrov&repo=job4j_cars&title_color=3c7ebb&text_color=515151&icon_color=b92f20&bg_color=e4e4e4"/>
+</a>
+
+>
+
 <a href="https://github.com/ibobrov/job4j_cinema">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibobrov&repo=job4j_cinema&title_color=3c7ebb&text_color=515151&icon_color=b92f20&bg_color=e4e4e4"/>
 </a>
@@ -40,10 +46,6 @@ You can write me on  [![Telegram][2.2]][2] or [![LinkedIn][1.1]][1].
 </a>
 
 >
-
-<a href="https://github.com/ibobrov/job4j_threads">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibobrov&repo=job4j_threads&title_color=3c7ebb&text_color=515151&icon_color=b92f20&bg_color=e4e4e4"/>
-</a>
 
 <!-- links -->
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
