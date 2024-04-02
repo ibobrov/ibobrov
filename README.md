@@ -18,8 +18,6 @@ You can write me on  [![Telegram][2.2]][2] or [![LinkedIn][1.1]][1].
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=gradle&logoColor=efb8cc&color=e4e4e4)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=efb8cc&color=e4e4e4)
 ![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=efb8cc&color=e4e4e4)
-![](https://img.shields.io/badge/Front-TypeScript-informational?style=flat&logo=typescript&logoColor=efb8cc&color=e4e4e4)
-![](https://img.shields.io/badge/Front-Angular-informational?style=flat&logo=angular&logoColor=efb8cc&color=e4e4e4)
 
 ## 🎮 About Me
 [![Codewars](https://www.codewars.com/users/ibobrov/badges/large?theme=light )](https://www.codewars.com/users/ibobrov)
