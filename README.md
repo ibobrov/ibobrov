@@ -29,7 +29,7 @@ You can write me on  [![Telegram][2.2]][2] or [![LinkedIn][1.1]][1].
 
 >
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ibobrov&repo=test&title_color=3c7ebb&text_color=515151&icon_color=b92f20&bg_color=e4e4e4)](https://github.com/ibobrov/test)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ibobrov&repo=Task-Tracker&title_color=3c7ebb&text_color=515151&icon_color=b92f20&bg_color=e4e4e4)](https://github.com/ibobrov/Task-Tracker)
 
 <!-- links -->
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
