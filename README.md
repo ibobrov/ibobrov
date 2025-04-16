@@ -4,7 +4,7 @@
 
 # Hello, Friends! <img src="https://raw.githubusercontent.com/ibobrov/ibobrov/main/cofe.gif" width="30px" height="30px">
 
-My name is Ilya Bobrov and I'm a Java programmer. I'm from Vladivostok and work remotely.<br>
+My name is Ilya Bobrov and I'm a Java/Kotlin programmer.
 You can write me on  [![Telegram][2.2]][2] or [![LinkedIn][1.1]][1].
 
 ## 🔧 Technologies & Tools
